@@ -1,6 +1,6 @@
 # landingPage
 
-Simple landing page with sliding menu and modal
+Simple landing page with sliding menu and modal window.
 
 # Project Specifications
 
